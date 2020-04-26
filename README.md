@@ -19,6 +19,8 @@
 * Monday, Wednesday and Friday are the busiest days. 
 * The busiest hours are 8 AM and 6 PM during the weekdays. During the weekend, there is no busy hours.
 
-All the analisys can be find [Public Tableau]
+All the analisys can be find [Public Tableau].(https://public.tableau.com/profile/daniela.lima.matos#!/vizhome/CityBike_15875588386060/Dashboard1?publish=yes)
+
+Must look in Full Screen or Presentation Mode for best view.
 
 
