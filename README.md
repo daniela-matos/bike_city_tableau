@@ -2,7 +2,8 @@
 
 ### Data Source
 
- [Citi Bike Data](https://www.citibikenyc.com/system-data). I used data from 2018 and 2019.
+
+The data from 2018 and 2019 is from [Citi Bike Data](https://www.citibikenyc.com/system-data).
  
  
 ### Tecnology
@@ -19,7 +20,7 @@
 * Monday, Wednesday and Friday are the busiest days. 
 * The busiest hours are 8 AM and 6 PM during the weekdays. During the weekend, there is no busy hours.
 
-All the analisys can be find [Public Tableau].(https://public.tableau.com/profile/daniela.lima.matos#!/vizhome/CityBike_15875588386060/Dashboard1?publish=yes)
+All the analisys can be find in [Public Tableau](https://public.tableau.com/profile/daniela.lima.matos#!/vizhome/CityBike_15875588386060/Dashboard1?publish=yes).
 
 Must look in Full Screen or Presentation Mode for best view.
 
