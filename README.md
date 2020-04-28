@@ -9,11 +9,11 @@ The data from 2018 and 2019 is from [Citi Bike Data](https://www.citibikenyc.com
 ### Tecnology
 
 * Jupyter Notebook and Python to concatenate and clean the data.
-* Tableau to create two Dashbords and one Story.
+* Tableau to create two Dashboards and one Story.
 
 ### Analisys
 
-* The total number of trips have increased year on year. In 2019 the total number of rides incresed 51,055 compared to 2018. 
+* The total number of trips have increased year on year. In 2019 the total number of rides increased 51,055 compared to 2018. 
 * Most users have the annual membership, are between 21 and 55 years old and are male (more than 70%).
 * Grove St. Path is the most popular station. 
 * During summer, from June and October, is the period where more trips are observed.
